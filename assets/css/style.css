@@ -31,7 +31,7 @@ body {
 
 a {
     text-decoration: none;
-    color: #32c267;
+    color: red;
 }
 header, footer {
     width: 100%;
@@ -55,7 +55,7 @@ main {
 }
 #title {
     animation: slide-up 0.9s; 
-    color: #32c267;
+    color: red;
 }
 #bouncingImg {
     animation: bounce 5s infinite reverse;
